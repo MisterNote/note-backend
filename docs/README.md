@@ -36,6 +36,7 @@ HTTP REST API
   * HTTP response contains reply for the request.
 
 ### Event messages with HTTP REST API
+
   * To get *event messages*, client should send `ping` request:
 
 Key | Value
@@ -60,6 +61,7 @@ TODO
 ----
 
   * OAuth (VK, Facebook, Twitter, Google+)
-  * Errors descriptions
+  * Errors
+  * Events
   * E-mail confirmation
   * File uploading
